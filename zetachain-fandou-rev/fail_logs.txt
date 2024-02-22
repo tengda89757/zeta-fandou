@@ -1,0 +1,7 @@
+Error for address: 0x92CFB8E20D56806aE6132C0BA6503733858A0ba2 | Error: {'code': -32000, 'message': 'insufficient funds for transfer'}
+ Error for address: 0xFFbAb75C8eac95853aF26912e47345d248748F50 | Error: {'code': -32000, 'message': 'insufficient funds for transfer'}
+ Error for address: 0xae6138109BA81C61EcA1075b944BBe6F49D0a5fF | Error: {'code': -32000, 'message': 'insufficient funds for transfer'}
+ Error for address: 0xae6138109BA81C61EcA1075b944BBe6F49D0a5fF | Error: execution reverted
+ Error for address: 0xae6138109BA81C61EcA1075b944BBe6F49D0a5fF | Error: execution reverted
+ Error for address: 0xae6138109BA81C61EcA1075b944BBe6F49D0a5fF | Error: {'code': -32000, 'message': 'insufficient funds for transfer'}
+ 
